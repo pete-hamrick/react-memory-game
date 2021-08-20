@@ -23,7 +23,7 @@ import React, { Component } from 'react';
 class Game extends Component {
     state = {  }
     render() { 
-        return (  );
+        return <h1>The Game!</h1>;
     }
 }
  
