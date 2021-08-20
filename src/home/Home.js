@@ -22,7 +22,7 @@ class Home extends Component {
                    }}
                    type='text'
                    ></input>
-                   <button onClick=''>Play Game!</button> 
+                   <button onClick={console.log("Good job clicking that Button")}>Play Game!</button> 
                </form>
             </>
         );
