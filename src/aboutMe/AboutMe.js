@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 
+
+//TODO 
+// render 3 images with bios below
+
+
 class AboutMe extends Component {
     state = {  }
     render() { 
